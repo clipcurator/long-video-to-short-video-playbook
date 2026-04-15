@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Long Video to Short Video Playbook"
+message: "If you use this repository as a reference, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "ClipCurator"
+    given-names: "Team"
+repository-code: "https://github.com/clipcurator/long-video-to-short-video-playbook"
+url: "https://github.com/clipcurator/long-video-to-short-video-playbook"
+abstract: "A practical repository of workflows, templates, examples, and checklists for turning long-form video into short, publishable clips."
+license: "CC-BY-4.0"
