@@ -4,6 +4,10 @@ Workflows, templates, examples, and practical notes for turning long-form video 
 
 This repository is built for creators, editors, researchers, and content operators who want a repeatable way to turn long videos into Shorts, Reels, highlights, explainers, and recap content without rebuilding the workflow from scratch every time.
 
+## Related Workflow Tool
+
+[Recapo](https://recapo.ai?from=github_long-video-to-short-video-playbook) is one product example in this category, especially for AI-assisted long-video understanding, highlight selection, and recap-first editing workflows.
+
 ## Who This Repository Is For
 
 - Creators repurposing YouTube videos, podcasts, livestreams, webinars, or interviews
